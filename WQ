@@ -1,0 +1,93 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   admin/css/bootstrap-rtl.css
+#	new file:   admin/css/bootstrap-rtl.min.css
+#	new file:   admin/css/bootstrap.css
+#	new file:   admin/css/bootstrap.min.css
+#	new file:   admin/css/plugins/morris.css
+#	new file:   admin/css/sb-admin-rtl.css
+#	new file:   admin/css/sb-admin.css
+#	new file:   admin/font-awesome/css/font-awesome.css
+#	new file:   admin/font-awesome/css/font-awesome.min.css
+#	new file:   admin/font-awesome/fonts/FontAwesome.otf
+#	new file:   admin/font-awesome/fonts/fontawesome-webfont.eot
+#	new file:   admin/font-awesome/fonts/fontawesome-webfont.svg
+#	new file:   admin/font-awesome/fonts/fontawesome-webfont.ttf
+#	new file:   admin/font-awesome/fonts/fontawesome-webfont.woff
+#	new file:   admin/font-awesome/less/bordered-pulled.less
+#	new file:   admin/font-awesome/less/core.less
+#	new file:   admin/font-awesome/less/fixed-width.less
+#	new file:   admin/font-awesome/less/font-awesome.less
+#	new file:   admin/font-awesome/less/icons.less
+#	new file:   admin/font-awesome/less/larger.less
+#	new file:   admin/font-awesome/less/list.less
+#	new file:   admin/font-awesome/less/mixins.less
+#	new file:   admin/font-awesome/less/path.less
+#	new file:   admin/font-awesome/less/rotated-flipped.less
+#	new file:   admin/font-awesome/less/spinning.less
+#	new file:   admin/font-awesome/less/stacked.less
+#	new file:   admin/font-awesome/less/variables.less
+#	new file:   admin/font-awesome/scss/_bordered-pulled.scss
+#	new file:   admin/font-awesome/scss/_core.scss
+#	new file:   admin/font-awesome/scss/_fixed-width.scss
+#	new file:   admin/font-awesome/scss/_icons.scss
+	new file:   admin/font-awesome/scss/_larger.scss
+#	new file:   admin/font-awesome/scss/_list.scss
+#	new file:   admin/font-awesome/scss/_mixins.scss
+#	new file:   admin/font-awesome/scss/_path.scss
+#	new file:   admin/font-awesome/scss/_rotated-flipped.scss
+#	new file:   admin/font-awesome/scss/_spinning.scss
+#	new file:   admin/font-awesome/scss/_stacked.scss
+#	new file:   admin/font-awesome/scss/_variables.scss
+#	new file:   admin/font-awesome/scss/font-awesome.scss
+#	new file:   admin/fonts/glyphicons-halflings-regular.eot
+	new file:   admin/fonts/glyphicons-halflings-regular.svg
+#	new file:   admin/fonts/glyphicons-halflings-regular.ttf
+#	new file:   admin/fonts/glyphicons-halflings-regular.woff
+#	new file:   admin/fonts/glyphicons-halflings-regular.woff2
+#	new file:   admin/index.php
+#	new file:   admin/js/bootstrap.js
+#	new file:   admin/js/bootstrap.min.js
+#	new file:   admin/js/jquery.js
+#	new file:   admin/js/plugins/flot/excanvas.min.js
+#	new file:   admin/js/plugins/flot/flot-data.js
+#	new file:   admin/js/plugins/flot/jquery.flot.js
+#	new file:   admin/js/plugins/flot/jquery.flot.pie.js
+#	new file:   admin/js/plugins/flot/jquery.flot.resize.js
+#	new file:   admin/js/plugins/flot/jquery.flot.tooltip.min.js
+#	new file:   admin/js/plugins/morris/morris-data.js
+#	new file:   admin/js/plugins/morris/morris.js
+#	new file:   admin/js/plugins/morris/morris.min.js
+#	new file:   admin/js/plugins/morris/raphael.min.js
+#	new file:   cms.sql
+#	new file:   css/blog-home.css
+#	new file:   css/blog-post.css
+#	new file:   css/bootstrap.css
+#	new file:   css/bootstrap.min.css
+#	new file:   fonts/glyphicons-halflings-regular.eot
+#	new file:   fonts/glyphicons-halflings-regular.svg
+#	new file:   fonts/glyphicons-halflings-regular.ttf
+#	new file:   fonts/glyphicons-halflings-regular.woff
+#	new file:   fonts/glyphicons-halflings-regular.woff2
+#	new file:   images/sql_injection.jpg
+#	new file:   includes/db.php
+#	new file:   includes/footer.php
+#	new file:   includes/header.php
+#	new file:   includes/navigation.php
+#	new file:   includes/sidebar.php
+#	new file:   includes/widgets.php
+#	new file:   index.php
+#	new file:   js/bootstrap.js
+#	new file:   js/bootstrap.min.js
+#	new file:   js/jquery.js
+#	new file:   post.php
+#	new file:   search.php
+
