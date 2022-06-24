@@ -34,9 +34,29 @@
          <input value="<?php echo $post_title; ?>" type="text" class="form-control" name="title">
      </div>
 
-        <div class="form-group">
-      <label for="category">Post Category Id</label>
-      <input value="<?php echo $post_category_id; ?>" type="text" class="form-control" name="post_category_id">
+     <div class="form-group">
+       <label for="categories">Category</label>
+       <select name="post_category" id="">
+
+        <?php
+          $query = "SELECT * FROM categories ";
+          $select_categories = mysqli_query($connection, $query);
+
+          confirmQuery($select_categories);
+
+          while($row = mysqli_fetch_assoc($select_categories)) {
+          $cat_id =   $row['cat_id'];
+          $cat_title =   $row['cat_title'];
+
+            echo "<option value='{$cat_id}'>{$cat_title}</option>";
+
+          }
+          ?>
+      
+        </select>
+
+
+
      </div>
 
      <div class="form-group">
